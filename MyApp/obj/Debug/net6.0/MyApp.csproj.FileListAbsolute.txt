@@ -1,0 +1,15 @@
+D:\Workspace\dotnet-learning\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\Workspace\dotnet-learning\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\Workspace\dotnet-learning\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\Workspace\dotnet-learning\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\Workspace\dotnet-learning\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\Workspace\dotnet-learning\MyApp\obj\Debug\net6.0\ref\MyApp.dll
